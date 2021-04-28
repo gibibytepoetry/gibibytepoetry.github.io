@@ -1,2 +1,2 @@
-# gibibtepoetry.github.io
+# gibibytepoetry.github.io
 poetry archive
